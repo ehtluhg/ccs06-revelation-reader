@@ -19,20 +19,20 @@
 <div class="column right">
 <pre>
 <p>
-The PHP Notes for Professionals book is compiled from Stack Overflow Documentation, the content is written by the 
-beautiful people at Stack Overflow. Text content is released under Creative Commons BY-SA. See credits at the end 
-of this book whom contributed to the various chapters. Images may be copyright of their respective owners unless 
-otherwise specified
+The Bible is considered a sacred text by three major world religions, Judaism, Christianity, and Islam. Many devout believers 
+consider it to be the literal truth. Others treat it with great respect, but believe that it was written by human beings and, 
+as such is a complex, often contradictory document.
 
-Book created for educational purposes and is not affiliated with PHP group(s), company(s) nor Stack Overflow. 
-All trademarks belong to their respective company owners
+Modern scholars believe that the Hebrew Bible, or Tanakh, was composed by four or five writers between 1000 to 400 BCE based on 
+much older traditions. The New Testament was composed by a variety of writers between 60 to 110 CE. The contents of the New 
+Testament were formalized by Athanasius of Alexandria in 367 CE, and finally canonized in 382 CE.
 
-481 pages, published on June 2018
+There are many disagreements about the order and composition of the Bible between various religions and sects, some of which are 
+doctrinal in nature. The sequence of books in this hypertext should not be construed as endorsing any particular religion.
 
+<b>Important note:</b> to view the Greek and Hebrew sections of this part of the site you must have Unicode support correctly set up in 
+your browser. Special instructions about getting Hebrew Unicode running properly can be found here.
 
-<b>Disclaimer</b>
-This is an unofficial free book created for educational purposes and is not affiliated with official PHP group(s) or company(s).
-All trademarks and registered trademarks are the property of their respective owners
 </p>
 </pre>
 </div>
